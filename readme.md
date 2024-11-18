@@ -1,0 +1,1 @@
+﻿A simple example demonstrating delegates' covariance and contravariance properties.
